@@ -1,0 +1,7 @@
+# Site: AV.DEV
+
+public/*
+system/*
+
+app/config/env_config.php
+app/config/env_database.php
